@@ -3,7 +3,7 @@ import lxml.html
 import re
 import time
 
-yelpurl = "http://www.yelp.ca/search?find_desc=gyms&find_loc=London%2C+AB&start="
+yelpurl = "http://www.yelp.ca/search?find_desc=gyms&find_loc=Calgary%2C+AB&start="
 index = 1
 
 for x in range(0, 300, 10):
